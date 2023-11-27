@@ -1,4 +1,4 @@
-package Singleton;
+package CreationalDesignPatterns.Singleton;
 
 /**
  * <h2><a href="https://refactoring.guru/design-patterns/singleton">Singleton</a></h1>

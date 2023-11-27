@@ -1,4 +1,6 @@
-package FactoryMethod;
+package CreationalDesignPatterns.FactoryMethod.ConcreteProduct;
+
+import CreationalDesignPatterns.FactoryMethod.Product.Vehicle;
 
 public class Plane implements Vehicle {
 
